@@ -1,0 +1,10 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+* {
+    background-color: rgb(213, 159, 78);
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
